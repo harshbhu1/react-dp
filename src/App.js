@@ -1,9 +1,10 @@
 import React from 'react'
 
 const App = () => {
-  return (
+  return (<>
   <div>this is harsh</div>
   <p>what are you doin</p>
+  </>
   )
 }
 
